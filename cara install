@@ -1,0 +1,5 @@
+$pkg install python
+$pip install requests
+$git clone https://github.com/AlifAnanta/SpamCall
+$cd SpamCall
+$python spam.py
